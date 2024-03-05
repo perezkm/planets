@@ -4,3 +4,4 @@ boop
 boop boop
 
 venus as a base? hmm we will see. Let's ask Dave
+Dave does not want to base in venus (edited on GitHub directly)
